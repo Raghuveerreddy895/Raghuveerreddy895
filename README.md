@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghuveerreddy895
+- 👋 Hi, I’m @Raghuveerreddy
 - 👀 I’m interested in ...Computational Biology
 - 🌱 I’m currently learning ...Bioinformatics
 - Currently working cancer genomics
